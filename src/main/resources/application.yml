@@ -1,0 +1,7 @@
+exchange-rate-api:
+  api-key: 0aa7dae4a33e84e66a32fff1
+  base-url: https://v6.exchangerate-api.com/
+server:
+  port: 9090
+telegram-bot:
+  token: 6158641791:AAFenzyqC0_Yt1c8oGAtIbdX0g86CjLByZo
